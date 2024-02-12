@@ -5,3 +5,5 @@
 1. Backend будет разработан на Kotlin с использованием фреймворка Spring Boot.
 2. Frontend будет разработан с использованием HTML, СSS и JavaSсript(React Native).
 3. Для хранения данных будет использоваться СУБД PostgreSQL
+
+Ссылка на проект: https://virtual-meeting-manager.af-dev.ru/home
